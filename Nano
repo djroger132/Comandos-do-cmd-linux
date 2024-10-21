@@ -1,0 +1,9 @@
+*COMANDOS DENTRO DO NANO*
+
+CTRL + G = AJUDA
+CTRL + X = SAIR DA AJUDA
+ALT + 6 = COPIA O TEXTO
+ALT + U = COLAR O TEXTO
+CTRL + O = SALVAR O ARQUIVO
+cp/home/gabbs/pasta_logs/*.txt /home/gabbs/backup = copiar tudo que esta em uma pasta para outra
+salvar em SH = nome-do-arquivo.sh
